@@ -1,0 +1,14 @@
+C:\Users\emil code\Desktop\c# experments\HomeTask_03_30_2022\HomeTask_03_30_2022\bin\Debug\netcoreapp3.1\HomeTask_03_30_2022.exe
+C:\Users\emil code\Desktop\c# experments\HomeTask_03_30_2022\HomeTask_03_30_2022\bin\Debug\netcoreapp3.1\HomeTask_03_30_2022.deps.json
+C:\Users\emil code\Desktop\c# experments\HomeTask_03_30_2022\HomeTask_03_30_2022\bin\Debug\netcoreapp3.1\HomeTask_03_30_2022.runtimeconfig.json
+C:\Users\emil code\Desktop\c# experments\HomeTask_03_30_2022\HomeTask_03_30_2022\bin\Debug\netcoreapp3.1\HomeTask_03_30_2022.runtimeconfig.dev.json
+C:\Users\emil code\Desktop\c# experments\HomeTask_03_30_2022\HomeTask_03_30_2022\bin\Debug\netcoreapp3.1\HomeTask_03_30_2022.dll
+C:\Users\emil code\Desktop\c# experments\HomeTask_03_30_2022\HomeTask_03_30_2022\bin\Debug\netcoreapp3.1\HomeTask_03_30_2022.pdb
+C:\Users\emil code\Desktop\c# experments\HomeTask_03_30_2022\HomeTask_03_30_2022\obj\Debug\netcoreapp3.1\HomeTask_03_30_2022.csproj.AssemblyReference.cache
+C:\Users\emil code\Desktop\c# experments\HomeTask_03_30_2022\HomeTask_03_30_2022\obj\Debug\netcoreapp3.1\HomeTask_03_30_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil code\Desktop\c# experments\HomeTask_03_30_2022\HomeTask_03_30_2022\obj\Debug\netcoreapp3.1\HomeTask_03_30_2022.AssemblyInfoInputs.cache
+C:\Users\emil code\Desktop\c# experments\HomeTask_03_30_2022\HomeTask_03_30_2022\obj\Debug\netcoreapp3.1\HomeTask_03_30_2022.AssemblyInfo.cs
+C:\Users\emil code\Desktop\c# experments\HomeTask_03_30_2022\HomeTask_03_30_2022\obj\Debug\netcoreapp3.1\HomeTask_03_30_2022.csproj.CoreCompileInputs.cache
+C:\Users\emil code\Desktop\c# experments\HomeTask_03_30_2022\HomeTask_03_30_2022\obj\Debug\netcoreapp3.1\HomeTask_03_30_2022.dll
+C:\Users\emil code\Desktop\c# experments\HomeTask_03_30_2022\HomeTask_03_30_2022\obj\Debug\netcoreapp3.1\HomeTask_03_30_2022.pdb
+C:\Users\emil code\Desktop\c# experments\HomeTask_03_30_2022\HomeTask_03_30_2022\obj\Debug\netcoreapp3.1\HomeTask_03_30_2022.genruntimeconfig.cache
